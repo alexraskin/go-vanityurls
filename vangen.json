@@ -1,0 +1,21 @@
+{
+    "domain": "go.twizy.sh",
+    "docsDomain": "pkg.go.dev",
+    "index": true,
+    "repositories": [
+        {
+            "prefix": "go-vanityurls",
+            "url": "https://github.com/twizy-sh/go-vanityurls",
+            "website": {
+                "url": "https://github.com/twizy-sh/go-vanityurls"
+            }
+        },
+        {
+            "prefix": "thecatapi-gosdk",
+            "url": "https://github.com/twizy-sh/thecatapi-gosdk",
+            "website": {
+                "url": "https://github.com/twizy-sh/thecatapi-gosdk"
+            }
+        }
+    ]
+}
