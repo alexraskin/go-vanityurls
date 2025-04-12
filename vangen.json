@@ -9,13 +9,6 @@
             "website": {
                 "url": "https://github.com/alexraskin/go-vanityurls"
             }
-        },
-        {
-            "prefix": "thecatapi-gosdk",
-            "url": "https://github.com/alexraskin/thecatapi-gosdk",
-            "website": {
-                "url": "https://github.com/alexraskin/thecatapi-gosdk"
-            }
         }
     ]
 }
